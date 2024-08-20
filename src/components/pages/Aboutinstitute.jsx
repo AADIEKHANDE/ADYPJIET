@@ -13,7 +13,7 @@ function Aboutinstitute() {
         <h5>About The Institute</h5>
         <h1>Ajeenkya DY Patil School Of Engineering, Pune</h1>
 
-        <div className=" row">
+        <div className="  row">
           <div className=" col-md-6" style={{ textAlign: "justify" }}>
             <p>
               Ajeenkya DY Patil University (ADYPU) is India’s premier
@@ -42,7 +42,7 @@ function Aboutinstitute() {
               certificates for Environment and Energy Management, further
               enhancing its credentials.
             </p>
-            
+
           </div>
 
           <div className="col-md-6">
@@ -55,38 +55,39 @@ function Aboutinstitute() {
 
         <div className=" row">
           <div className=" col-md-6" style={{ textAlign: "justify" }}>
-           
+
             <img
               src="https://images.shiksha.com/mediadata/images/1553492033phpDv56ib.jpeg"
               alt=""
             />
-            
+
           </div>
 
-          <div className="col-md-6">
-            <p>
-              Our students champion the synthesis of theory and practice while
-              emphasizing creativity and hands-on application. Our courses
-              empower graduates to think critically, act strategically, and
-              tackle real-world challenges with innovative solutions. Whether
-              managing projects, teams, or businesses, our students emerge as
-              dynamic, work-ready professionals. Underpinned by the distinctive
-              ‘ADYPU Student Experience,’ our undergraduate and postgraduate
-              programs excel in unique domains. This exceptional journey is
-              guided by a dedicated faculty and reinforced by top-notch
-              facilities and world-class infrastructure.
-            </p>
-            <p>
-              Innovation is not just a buzzword for us—it’s woven into the
-              fabric of our institution. We continuously enhance our
-              capabilities to adapt easily to change, employing innovative
-              strategies in both our internal operations and external offerings.
-              We are a purpose-driven institution committed to nurturing
-              knowledge domains and inquiries. Our ambition remains to shape
-              individuals into the visionaries, thinkers, and trailblazers of
-              the future, which makes the institution a catalyst for
-              transformation.
-            </p>
+            <div className=" col-md-6" style={{ textAlign: "justify" }}>
+
+              <p>
+                Our students champion the synthesis of theory and practice while
+                emphasizing creativity and hands-on application. Our courses
+                empower graduates to think critically, act strategically, and
+                tackle real-world challenges with innovative solutions. Whether
+                managing projects, teams, or businesses, our students emerge as
+                dynamic, work-ready professionals. Underpinned by the distinctive
+                ‘ADYPU Student Experience,’ our undergraduate and postgraduate
+                programs excel in unique domains. This exceptional journey is
+                guided by a dedicated faculty and reinforced by top-notch
+                facilities and world-class infrastructure.
+              </p>
+              <p>
+                Innovation is not just a buzzword for us—it’s woven into the
+                fabric of our institution. We continuously enhance our
+                capabilities to adapt easily to change, employing innovative
+                strategies in both our internal operations and external offerings.
+                We are a purpose-driven institution committed to nurturing
+                knowledge domains and inquiries. Our ambition remains to shape
+                individuals into the visionaries, thinkers, and trailblazers of
+                the future, which makes the institution a catalyst for
+                transformation.
+              </p>
           </div>
         </div>
       </div>
